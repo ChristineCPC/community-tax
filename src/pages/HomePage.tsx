@@ -145,13 +145,15 @@ const HomePage: React.FC = () => {
                                     <h1 className="font-bold text-3xl md:text-2xl mb-5">The Deadline Is Approaching...</h1>
                                     <p className="text-justify">Every day you wait limits your options. Whether you need a last-minute filing, help sorting through complex tax documents, or guidance on a past-due return, our team provides fast, accurate support tailored to your situation. We make the process simple, secure, and stress-free so you can file confidently before time runs out.</p>
                                     <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
-                                        <a
-                                            href="/contact"
-                                            className="rounded-4xl bg-lime-950 px-5.5 py-2.5 text-xl font-semibold text-white inset-ring inset-ring-white/5 hover:bg-lime-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
-                                        >
-                                            {' '}
-                                            Contact Us Today{' '}
-                                        </a>
+                                        <Link to="/contact">
+                                            <a
+                                                href="/contact"
+                                                className="rounded-4xl bg-lime-950 px-5.5 py-2.5 text-xl font-semibold text-white inset-ring inset-ring-white/5 hover:bg-lime-500 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white"
+                                            >
+                                                {' '}
+                                                Contact Us Today{' '}
+                                            </a>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>
