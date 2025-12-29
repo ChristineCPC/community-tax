@@ -4,9 +4,6 @@ A fully responsive client website that included a custom made contact form with 
 
 **Live Site:** https://communitytaxandmanagementservices.com/
 
-## Project Overview
-
-This 
 
 ## Key Features
 
@@ -15,7 +12,7 @@ This
 - Secure form submission
 - File upload support
 - Spam protection
-- Environmental variable proteaction for API keys
+- Environmental variable protection for API keys
 - Deployed production build
 
 ## Tech Stack
@@ -23,8 +20,4 @@ This
 - **Frontend:** Typescript, Tailwindcss, React + Vite, SweetAlert, GSAP
 - **Form Handling:** Web3Form, hCaptcha
 - **Deployment:** Netlify
-
-## Project Context
-
-This 
 

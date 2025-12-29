@@ -114,7 +114,7 @@ const HomePage: React.FC = () => {
                                     <h1 className="font-bold text-xl md:text-2xl mb-5">Your Trusted Tax Partners</h1>
                                     <p className="text-justify">Years of experience and a hands-on approach is what sets our team apart. Every interaction is guided by professionalism and attention to detail, ensuring clients feel valued and understood. With a focus on clarity, reliability, and thoughtful guidance, working with our team brings peace of mind and confidence in every decision.</p>
                                     <br></br>
-                                    <p className="text-justify">Beyond expertise, what sets them apart is a commitment to building strong relationships. Every client is treated as a priority, with questions answered promptly and concerns addressed thoughtfully. This level of care makes the entire process seamless and reassuring, giving you confidence that you’re supported at every step.</p>
+                                    <p className="text-justify">Beyond expertise, what sets us apart is a commitment to building strong relationships. Every client is treated as a priority, with questions answered promptly and concerns addressed thoughtfully. This level of care makes the entire process seamless and reassuring, giving you confidence that you’re supported at every step.</p>
 
                                 </div>
                             </div>
@@ -127,7 +127,7 @@ const HomePage: React.FC = () => {
                                     <h1 className="font-bold text-xl md:text-2xl mb-5">Expertise You Can Count On</h1>
                                     <p className="text-justify">More than just a tax service, our company is an active part of the community it serves. By understanding the unique needs of local families and businesses, our team provides solutions that are practical, relevant, and tailored to real-world situations. Each interaction is grounded in familiarity and care, helping you feel supported not only as a customer, but as a neighbor.</p>
                                     <br></br>
-                                    <p className="text-justify">This community connection fosters trust and lasting relationships. Clients appreciate the guidance that comes from someone who truly knows their environment — offering insights and support that make a meaningful difference. By combining expertise with local awareness, the company ensures every client feels confident and well-supported, every step of the way.</p>
+                                    <p className="text-justify">This community connection fosters trust and lasting relationships. Clients appreciate the guidance that comes from someone who truly knows their environment — offering insights and support that make a meaningful difference. By combining expertise with local awareness, we ensure every client feels confident and well-supported, every step of the way.</p>
                                 </div>
                             </div>
                         </div>
@@ -172,7 +172,7 @@ const HomePage: React.FC = () => {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 lg:mt-30 lg:px-40 mt-10 px-10 text-center">
 
                         <div className="flex flex-col items-center card-animation-mobile lg:card-animation">
-                            <h1 className="text-2xl font-bold mb-4">Tax Preperation</h1>
+                            <h1 className="text-2xl font-bold mb-4">Tax Preparation</h1>
                             <img 
                                 src={TaxServices} 
                                 alt="Tax services" 
@@ -202,7 +202,7 @@ const HomePage: React.FC = () => {
                         </div>
 
                         <div className="flex flex-col items-center card-animation-mobile lg:card-animation">
-                            <h1 className="text-2xl font-bold mb-4">Offer in Comprimise Assistance</h1>
+                            <h1 className="text-2xl font-bold mb-4">Offer in Compromise Assistance</h1>
                             <img 
                                 src={Compromise} 
                                 alt="compromise" 
