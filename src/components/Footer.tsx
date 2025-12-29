@@ -21,7 +21,7 @@ export default function Footer () {
                             <ul className="leading-8">
                                 <li>(347)-442-5111</li>
                                 <li>(347)-761-6631</li>
-                                <li>contact@communitytaxandmanagementservices.com</li>
+                                <li className="wrap-break-word"><a href="mailto:contact@communitytaxandmanagementservices.com">contact@communitytaxandmanagementservices.com</a></li>
                             </ul>
                         </div>
 
